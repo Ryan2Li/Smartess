@@ -3,6 +3,15 @@
 ## Smartess Deployed Website
 https://smartess.vercel.app/
 
+## Shorten Hub Alert Feature Demo
+![alert](gif/alert.gif)
+
+## Shorten Hub Video Feature Demo
+![video](gif/video.gif)
+
+## Project Summary 
+Smartess is an all-in-one smart home system designed for condominium and residential communities. It serves both tenants and property owners, with tenants benefiting from a fully integrated smart home experience in their unit, while owners manage everything through a centralized application. This project involves building a web platform that property owners can use to monitor units and buildings in real-time. Data is collected through smart appliances and equipment on the property, processed, and presented to owners through the application, providing valuable insights and statistics. The application also acts as a communication tool for property owners, enabling announcements and automated emails. Owners can receive maintenance requests from tenants directly through the platform. The goal of this project is to create a user-friendly application that simplifies smart home management for property owners. 
+
 # RELEASE 3
 
 ## Release 3 Presentation/Demo
