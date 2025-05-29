@@ -9,7 +9,7 @@ https://smartess.vercel.app/
 ## Shorten Hub Alert Feature Demo
 ![alert](gif/alert.gif)
 
-## Shorten Hub Video Feature Demo
+## Shorten Hub Streaming Feature Demo
 ![stream](gif/stream.gif)
 
 # RELEASE 3
